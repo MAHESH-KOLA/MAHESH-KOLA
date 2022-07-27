@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MAHESH-KOLA
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning python 
-- 💞️
+- 💞️I'm looking for a good internship
 - 📫 How to reach me : call-9866970181
 
 <!---

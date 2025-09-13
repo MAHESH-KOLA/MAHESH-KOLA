@@ -3,7 +3,7 @@
 - 💞️I'm looking for a good internship
 - 📫 How to reach me : call-9866970181, email: maheshkolaa@gmail.com
 
-  AI & Tech Enthusiast | Competitive Programmer | Web & Software Developer | Quick Learner | Code Optimizer | Problem Solver | Collaborative Team Player
+AI & Tech Enthusiast | Competitive Programmer | Web & Software Developer | Quick Learner | Code Optimizer | Problem Solver | Collaborative Team Player
 
 🎯 Passionate about building intelligent, scalable, and high-performance web applications using modern technologies such as Angular, Python, Java, and the MERN stack.
 
